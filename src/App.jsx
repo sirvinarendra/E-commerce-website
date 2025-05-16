@@ -1,6 +1,6 @@
 
 import './App.css'
-import Navbar from './components/Navbar/navbar'
+import Navbar from './components/Navbar/Navbar'
 import { Shop } from './pages/Shop'
 import { Shopcatergory } from './pages/Shopcatergory'
 import { Footer } from './components/Footer/Footer'
